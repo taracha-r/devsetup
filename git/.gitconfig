@@ -1,0 +1,6 @@
+[user]
+	email = taracha.r@gmail.com
+
+[alias]
+	lol = log --oneline --graph --decorate
+	update = fetch --all --prune
