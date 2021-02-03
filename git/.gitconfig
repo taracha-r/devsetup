@@ -1,6 +1,9 @@
 [user]
 	email = taracha.r@gmail.com
+	user = taracha-r
 
 [alias]
 	lol = log --oneline --graph --decorate
 	update = fetch --all --prune
+[core]
+	editor = vim
