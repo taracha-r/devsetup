@@ -43,6 +43,7 @@ colorscheme darcula
 set termguicolors
 
 set clipboard=unnamedplus
+set number
 
 let g:ale_sign_error = '>>'
 let g:ale_sign_warning = '--'
